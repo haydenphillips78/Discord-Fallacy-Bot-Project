@@ -1,0 +1,1 @@
+To use this bot, you will need an API key from OpenAI's GPT3.5 turbo model. You will also need a client ID for the discord bot you will be using. paste these into the config file, then simple run the .bat file and it should work!
