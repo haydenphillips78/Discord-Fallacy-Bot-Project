@@ -1,2 +1,0 @@
-OpenAI API key:
-Discord token:
